@@ -7,14 +7,16 @@
 # server process.
 
 # Basic Site Settings
-remote_theme             : pages-themes/modernist@v0.2.0
+remote_theme             : "pages-themes/modernist@v0.2.0"
 locale                   : "en-US"
 title                    : "Mingfeng (/Lucas) Li "
 title_separator          : "-"
 name                     : &name "Mingfeng Li"
 description              : &description |
-  学无止境<br>
-  <div style="text-align: center;">There's always something new to study.</div>
+    <div class="center-text">
+      学无止境<br>
+      There's always something new to study.
+    </div>
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,8 +30,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : |
-    学无止境<br>
-    <div style="text-align: center;">There's always something new to study.</div>
+    <div class="center-text">
+      学无止境<br>
+      There's always something new to study.
+    </div>
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
