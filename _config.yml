@@ -13,8 +13,8 @@ title                    : "Mingfeng (/Lucas) Li "
 title_separator          : "-"
 name                     : &name "Mingfeng Li"
 description              : &description | 
-"              学无止境
-There's always something new to study."
+              学无止境
+There's always something new to study.
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -27,7 +27,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "学无止境\nThere's always something new to study"
+  bio              : | 
+              学无止境
+There's always something new to study.
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
