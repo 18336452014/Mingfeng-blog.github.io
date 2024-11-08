@@ -7,11 +7,14 @@
 # server process.
 
 # Basic Site Settings
+remote_theme             : pages-themes/modernist@v0.2.0
 locale                   : "en-US"
 title                    : "Mingfeng (/Lucas) Li "
 title_separator          : "-"
 name                     : &name "Mingfeng Li"
-description              : &description "学无止境\nThere's always something new to study."
+description              : &description | 
+"              学无止境
+There's always something new to study."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -295,7 +298,6 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-remote_theme: pages-themes/modernist@v0.2.0
 # Plugins
 plugins:
   - jekyll-feed
