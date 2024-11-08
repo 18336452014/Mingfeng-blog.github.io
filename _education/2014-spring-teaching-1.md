@@ -2,19 +2,32 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /education/NEU
+venue: "Northeastern University, College of Science"
+date: "2017-09-01 to 2021-07-01"
+location: "Shenyang, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Education
 ======
 
-Heading 2
-======
+- **College of Science, Northeastern University, Shenyang, China**
 
-Heading 3
-======
+  *Bachelor of Science in Physics*  
+  *September 2017 - July 2021*  
+  Liaoning, China
+  - Main courses include Calculus, Linear Algebra, Mechanics and branches, Probability Theory, and Mathematical Statistics, etc.
+  - Class Mental Health Coordinator, NEU Volunteer Association sector leader
+
+![Transcript1](./Academic%20Transcript1.jpeg)
+![Transcript2](./Academic%20Transcript2.jpg)
+
+
+
+
+
+
+
+
+

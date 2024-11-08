@@ -8,13 +8,12 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Education
 ======
 
-Heading 2
-======
+- **School of Computer Science, University of Birmingham, UK**  
 
-Heading 3
-======
+  *Master of Science in Computer Science*  
+  *September 2021 - September 2022*  
+  - 1st Class student (distinction)
+  - Main courses include Software Workshop (Java programming), Data Structures, Algorithms, Databases, Computer Systems, AI, and ML, etc.

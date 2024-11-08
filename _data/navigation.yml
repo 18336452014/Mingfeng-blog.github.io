@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Works"
-    url: /works/    
+    url: /work-experience/    
 
   - title: "Education"
     url: /education/    
@@ -17,11 +17,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blogs"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
