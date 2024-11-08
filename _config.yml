@@ -295,7 +295,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+remote_theme: pages-themes/modernist@v0.2.0
 # Plugins
 plugins:
   - jekyll-feed
@@ -303,6 +303,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
 
 # Mimic GitHub Pages with --safe
 whitelist:
