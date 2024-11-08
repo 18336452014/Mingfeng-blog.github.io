@@ -13,7 +13,7 @@ title                    : "Mingfeng (/Lucas) Li "
 title_separator          : "-"
 name                     : &name "Mingfeng Li"
 description              : &description |
-    <div class="center-text">
+    <div style="text-align: center;">
       学无止境<br>
       There's always something new to study.
     </div>
@@ -30,14 +30,14 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : |
-    <div class="center-text">
+    <div style="text-align: center;">
       学无止境<br>
       There's always something new to study.
     </div>
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "New York City, NY US"
+  employer         : "PwC UK"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Personal: lmf18336452014@gmail.com<br>Business: mingfeng.x.li@pwc.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -53,7 +53,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "18336452014"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -86,7 +86,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Dissertation'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
