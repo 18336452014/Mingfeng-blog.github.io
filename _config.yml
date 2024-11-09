@@ -165,7 +165,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets/css/styles.css
   - Gemfile
 exclude:
   - "*.sublime-project"
@@ -193,6 +192,8 @@ exclude:
   - README
   - tmp
   - vendor
+  - assets/css/styles.css
+
 keep_files:
   - .git
   - .svn
